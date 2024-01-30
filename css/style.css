@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(228, 106, 255);
+    margin: 0%;
+    padding: 0%;
+}
+.contenedor1{
+    background-color: aqua;
+
+}
+.boton1{
+    background-color: rgb(255, 255, 0);
+    height: 5rem;
+}
+.boton2{
+    background-color: rgb(43, 0, 255);
+    height: 5rem;
+}
+.boton3{
+    background-color: rgb(255, 0, 0);
+    height: 5rem;
+}
+.slider{
+    background-color: blueviolet;
+    height: 25rem;
+}
+.caja1{
+    background-color: yellow;
+    height: 15rem;
+}
+.caja2{
+    background-color: blue;
+    height: 15rem;
+}
+.caja3{
+    background-color: red;
+    height: 15rem;
+}
+.circulo1{
+    background-color: blue;
+    height: 15rem;
+    width: 15rem;
+    border-radius: 100%;
+}
+.circulo2{
+    background-color: yellow;
+    height: 15rem;
+    width: 15rem;
+    border-radius: 100%;
+}
